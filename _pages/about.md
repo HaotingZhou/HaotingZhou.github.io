@@ -11,6 +11,6 @@ I'm a third year undergraduate student from [Gaungzhou University](https://eecs.
 
 I am very fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.com/citations?hl=zh-CN&user=YIte1M8AAAAJ) of Machine Life and Intellegence Research Centre from [School of Mathematics and Information Science], Guangzhou University. 
 
-You can find my CV here: [Renyuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Renyuan's Curriculum Vitae](../assets/CV_RenyuanLiu.pdf).
 
 [Email](rliu@e.gzhu.edu.cn) / [Github](https://github.com/Ryannnice) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
