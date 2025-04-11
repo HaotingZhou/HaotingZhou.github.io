@@ -1,7 +1,7 @@
 ---
 title: "A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition"
 collection: publications
-category: published
+category: article
 permalink: /publication/2024-10-22-olgmd
 excerpt: 'This paper introduces an optimized LGMD model with contrast-polarity-specific inhibition to improve collision detection efficiency in embedded robotics.'
 date: 2024-10-22
