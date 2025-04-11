@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-10-22
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: published
+permalink: /publication/2024-03-01-olgmd
+excerpt: 'This paper introduces an optimized LGMD model with contrast-polarity-specific inhibition to improve collision detection efficiency in embedded robotics.'
+date: 2024-03-01
+venue: 'Biomimetics'
+paperurl: 'https://www.mdpi.com/journal/biomimetics'
+slidesurl: ''
+bibtexurl: ''
+citation: 'Second Author, Your Name, et al. (2024). "A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition." <i>Biomimetics</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Participated in the full-cycle research on optimizing the locust LGMD neuron with feed-forward inhibition (oLGMD), enhancing speed and robustness to translation.
+
+Implemented oLGMD into the embedded system of [*Colias* robot](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) ([1k lines C code](https://github.com/Ryannnice/Supplementary_Materials_FFI_ON_OFF/tree/main)). Conducted closed-loop arena experiments, achieving 97.51% success in collision avoidance while nearly halving processing time compared to previous LGMD models. Handled all online experiments and initial paper writing (introduction, experiments).
