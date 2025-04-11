@@ -14,3 +14,4 @@ I am very fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.c
 You can find my CV here: [Renyuan's Curriculum Vitae](../assets/CV_RenyuanLiu.pdf).
 
 [Email](rliu@e.gzhu.edu.cn) / [Github](https://github.com/Ryannnice) / [Wechat](../images/WeChat.png) / [Instagram](https://www.instagram.com/ren_yvan/)
+
