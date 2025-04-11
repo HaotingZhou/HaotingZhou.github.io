@@ -21,10 +21,9 @@ redirect_from:
   B.Eng. in Computer Science (Information Security)  
   **GPA: 90.13/100.00**; **Ranking: Top 10%**  
   **Curriculum Highlights:**  
-  Machine Learning 100*, Data Structure and Algorithm Laboratory 99*, Operating System 98* (Course Project 95*), Programming Practice 98*, Data Structure and Algorithm 97*, Programming Laboratory I 95*, Computer Network (Course Project 95*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics  
-  (*: ranked 1st in course)
+  Machine Learning 100\*, Data Structure and Algorithm Laboratory 99\*, Operating System 98\* (Course Project 95\*), Programming Practice 98\*, Data Structure and Algorithm 97\*, Programming Laboratory I 95\*, Computer Network (Course Project 95\*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics (\*: ranked 1st in course).
 
-- **[The University of Hong Kong](https://www.hku.hk/)** / [University of Macau](https://www.um.edu.mo/) (Summer Camp)  
+- **[The University of Hong Kong](https://www.hku.hk/)/[University of Macau](https://www.um.edu.mo/)** (Summer Camp)  
   *Nov. 2023*  
   **GPA: 97.50/100.00** (Interdisciplinary Programme)  
   **Honor:** Commendation Letter for Outstanding Performance in the Winning Team
@@ -66,7 +65,7 @@ redirect_from:
   - Provincial Key Innovation Project: Bio-Inspired LGMD Model with Optical Flow and Optimization.  
   - Developed:  
     - Self-inhibition neural network for motion translation  
-    - Neuromorphic binocular collision models  
+    - Neuromorphic binocular collision detection models  
     - Optimization using genetic algorithms  
   - Collected stereo RGB-D datasets.  
   - Ran online experiments on [Colias](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [TurtleBot](https://www.turtlebot.com/turtlebot3/) platforms.  
