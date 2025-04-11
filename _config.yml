@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ryan's"
 title_separator          : "-"
 name                     : &name "Renyuan Liu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Ryannnice/ryannnice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Renyuan Liu"
   pronouns         : # example: "she/her"  
   bio              : "Currently pursuing the B.E. degree with the School of Mathematics and Information Science, Guangzhou University."
