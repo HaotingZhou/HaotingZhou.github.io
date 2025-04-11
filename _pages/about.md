@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Gaungzhou University](https://eecs.pku.edu.cn/), [Peking University](https://www.gzhu.edu.cn/). My research interest includes robotics, neuron networks, machine vision, motion perception and bio-inspired systems.
+I'm a third year undergraduate student from [Gaungzhou University](https://www.gzhu.edu.cn/xxgk/xxjj.htm). My research interest includes robotics, neuron networks, machine vision, motion perception and bio-inspired systems.
 
-I am very fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.com/citations?hl=zh-CN&user=YIte1M8AAAAJ) of Machine Life and Intellegence Research Centre from [School of Mathematics and Information Science], Guangzhou University. 
+I am very fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.com/citations?hl=zh-CN&user=YIte1M8AAAAJ) of Machine Life and Intellegence Research Centre, Guangzhou University. 
 
 You can find my CV here: [Renyuan's Curriculum Vitae](../assets/CV_RenyuanLiu.pdf).
 
-[Email](rliu@e.gzhu.edu.cn) / [Github](https://github.com/Ryannnice) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](rliu@e.gzhu.edu.cn) / [Github](https://github.com/Ryannnice) / [Wechat](../images/WeChat.png) / [Instagram](https://www.instagram.com/ren_yvan/)
