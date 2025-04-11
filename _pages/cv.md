@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-# Renyuan Liu
-[ryannnice.github.io](https://ryannnice.github.io)  
+#[Renyuan Liu](https://ryannnice.github.io)
 📞 +86 14784206312 | 📧 rliu@e.gzhu.edu.cn  
 
 ---
