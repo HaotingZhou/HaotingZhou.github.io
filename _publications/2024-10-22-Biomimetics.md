@@ -2,14 +2,23 @@
 title: "A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition"
 collection: publications
 category: published
-permalink: /publication/2024-03-01-olgmd
+permalink: /publication/2024-10-22-olgmd
 excerpt: 'This paper introduces an optimized LGMD model with contrast-polarity-specific inhibition to improve collision detection efficiency in embedded robotics.'
-date: 2024-03-01
+date: 2024-10-22
 venue: 'Biomimetics'
-paperurl: 'https://www.mdpi.com/journal/biomimetics'
+paperurl: 'https://www.mdpi.com/2313-7673/9/11/650'
 slidesurl: ''
 bibtexurl: ''
-citation: 'Second Author, Your Name, et al. (2024). "A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition." <i>Biomimetics</i>.'
+citation: '@article{gao2024computationally,
+  title={A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition},
+  author={Gao, Guangxuan and Liu, Renyuan and Wang, Mengying and Fu, Qinbing},
+  journal={Biomimetics},
+  volume={9},
+  number={11},
+  pages={650},
+  year={2024},
+  publisher={MDPI}
+}'
 ---
 
 Participated in the full-cycle research on optimizing the locust LGMD neuron with feed-forward inhibition (oLGMD), enhancing speed and robustness to translation.
