@@ -34,7 +34,7 @@ You can find my CV here: [Renyuan's Curriculum Vitae](../assets/CV_RenyuanLiu.pd
   const markers = L.markerClusterGroup();
 
   // 加载组织或历史访问数据
-  fetch('/leaflet_dist/org-locations.js')
+  fetch('/talkmap/leaflet_dist/org-locations.js')
     .then(response => response.text())
     .then(js => {
       eval(js); // 里面定义了 locations 数组
