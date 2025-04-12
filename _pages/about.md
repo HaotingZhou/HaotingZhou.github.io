@@ -11,7 +11,8 @@ Welcome to my homepage! I'm a third-year undergraduate student at the School of 
 
 ## Research Interests
 
-I am deeply fascinated by the intersection of **bio-inspired algorithms**, **computational neuroscience**, and **robotic systems**. My current research focuses on understanding and modeling how biological systems — especially insect visual circuits — perform robust and efficient perception in real time, and applying these principles to artificial systems.
+I am deeply fascinated in **computational neuroscience**, the intersection of **bio-inspired algorithms** and **robotic systems**. My current research focuses on understanding and modeling how biological systems — especially insect visual circuits — perform robust and efficient perception in real time, and applying these principles to artificial systems.
+I am deeply fascinated by **computational neuroscience**, particularly the intersection of **bio-inspired algorithms** and **robotic systems**. My current research focuses on understanding and modeling how biological systems — especially insect visual circuits — perform robust and efficient perception in real time, and on applying these principles to real-world artificial systems.
 
 More specifically, I am interested in:
 - **Biologically-Plausible Visual Algorithms**: Developing neural models inspired by insect vision for motion perception, particularly looming detection.
