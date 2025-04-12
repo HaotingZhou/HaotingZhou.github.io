@@ -19,19 +19,7 @@ redirect_from:
   Sept. 2022 - Jun. 2026 (Expected)  
   B.Eng. in Computer Science (Information Security); **GPA: 90.13/100.00; Ranking: Top 10%**  
   **Curriculum:**  
-  Machine Learning 100*,  
-  Data Structure and Algorithm Laboratory 99*,  
-  Operating System 98* (Course Project 95*),  
-  Programming Practice 98*,  
-  Data Structure and Algorithm 97*,  
-  Programming Laboratory I 95*,  
-  Computer Network (Course Project 95*),  
-  Principles of Computer Composition,  
-  Higher Mathematics,  
-  Discrete Mathematics,  
-  Linear Algebra,  
-  Probability and Mathematical Statistics  
-  (*: rank 1st in all students of the course).
+  Machine Learning 100*, Data Structure and Algorithm Laboratory 99*, Operating System 98* (Course Project 95*), Programming Practice 98*, Data Structure and Algorithm 97*, Programming Laboratory I 95*, Computer Network (Course Project 95*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics (*: rank 1st in all students of the course).
 
 - **[The University of Hong Kong](https://www.hku.hk/)/[University of Macau](https://www.um.edu.mo/)** (Summer Camp)  
   Nov. 2023  
@@ -67,8 +55,7 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
   Mar. 2023 - Present  
   - Reading and giving reports of research articles during research seminars on a weekly basis.
   - **Provincial Key** College Students' Innovative Entrepreneurial Training Plan Program: Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization.
-  - Modeled self-inhibition in neural networks for collision perception against translating motion; developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [*TurtleBot*](https://www.turtlebot.com/turtlebot3/) robots; designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions.  
-    **Three manuscripts of the above works are to be submitted**.
+  - Modeled self-inhibition in neural networks for collision perception against translating motion; developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [*TurtleBot*](https://www.turtlebot.com/turtlebot3/) robots; designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions. **Three manuscripts of the above works are to be submitted**.
 
 ---
 
