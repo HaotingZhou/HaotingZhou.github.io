@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Renyuan's Homepage"
 title_separator          : "-"
 name                     : &name "Renyuan Liu"
 description              : &description "personal description"
