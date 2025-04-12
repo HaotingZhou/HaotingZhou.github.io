@@ -18,7 +18,7 @@ redirect_from:
 - **[Guangzhou University](https://www.gzhu.edu.cn/xxgk/xxjj.htm)**
   B.Eng. in Computer Science (Information Security); **GPA: 90.13/100.00; Ranking: Top 10%**  
   Sept. 2022 - Jun. 2026 (Expected)  
-  **Curriculum:** Machine Learning 100*, Data Structure and Algorithm Laboratory 99*, Operating System 98* (Course Project 95*), Programming Practice 98*, Data Structure and Algorithm 97*, Programming Laboratory I 95*, Computer Network (Course Project 95*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics (*: rank 1st in all students of the course).
+  **Curriculum:** Machine Learning 100\*, Data Structure and Algorithm Laboratory 99\*, Operating System 98\* (Course Project 95\*), Programming Practice 98\*, Data Structure and Algorithm 97\*, Programming Laboratory I 95\*, Computer Network (Course Project 95\*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics (\*: rank 1st in all students of the course).
 
 - **[The University of Hong Kong](https://www.hku.hk/)/[University of Macau](https://www.um.edu.mo/)** (Summer Camp)  
   Nov. 2023  
