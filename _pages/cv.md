@@ -63,8 +63,7 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
 - **National First Prize (Top 5%)**, 2024 Asia and Pacific Mathematical Contest in Modeling  
   Nov. 2024
 
-- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**,  
-  the 5th “Greater Bay Area Cup” Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
+- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**, the 5th “Greater Bay Area Cup” Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
   Nov. 2024
 
 - The Third-Class Scholarship, *Guangzhou University*  
