@@ -9,7 +9,7 @@ venue: 'Biomimetics'
 paperurl: 'https://www.mdpi.com/2313-7673/9/11/650'
 slidesurl: ''
 bibtexurl: ''
-citation: ''
+<!--citation: ''-->
 ---
 
 ## Abstract
