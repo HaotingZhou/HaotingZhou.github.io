@@ -19,38 +19,6 @@ layout: default
       {{ content }}
     </section>
 
-
-    <!-- 🌍 Visitor Map Section -->
-<h2 style="margin-top: 2em;">🌍 Visitor Map</h2>
-<div id="visitor-map" style="height: 400px; border-radius: 10px; margin-bottom: 2em;"></div>
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-<script>
-  const map = L.map('visitor-map').setView([20, 0], 2);  // 初始世界视图
-
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-
-  fetch('https://ipapi.co/json')
-    .then(response => response.json())
-    .then(data => {
-      const lat = data.latitude;
-      const lon = data.longitude;
-      const city = data.city;
-      const country = data.country_name;
-
-      L.marker([lat, lon]).addTo(map)
-        .bindPopup(`👋 You are visiting from <b>${city}, ${country}</b>`)
-        .openPopup();
-
-      map.setView([lat, lon], 6);
-    })
-    .catch(err => console.error("GeoIP fetch error:", err));
-</script>
-
     
   </article>
 </div>
