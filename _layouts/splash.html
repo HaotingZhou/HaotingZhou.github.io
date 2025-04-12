@@ -19,6 +19,56 @@ layout: default
       {{ content }}
     </section>
 
+
+
+    <!-- Leaflet 样式 -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<link rel="stylesheet" href="/leaflet_dist/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="/leaflet_dist/MarkerCluster.css" />
+<link rel="stylesheet" href="/leaflet_dist/screen.css" />
+
+<!-- Leaflet 核心 JS 和聚类插件 -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="/leaflet_dist/leaflet.markercluster.js"></script>
+
+<!-- IP 定位并打点 -->
+<div id="visitor-map" style="height: 400px; border-radius: 10px; margin-top: 2em;"></div>
+
+<script>
+  const map = L.map('visitor-map').setView([20, 0], 2);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // 聚类组
+  const markers = L.markerClusterGroup();
+
+  // 加载组织或历史访问数据（举例）
+  fetch('/leaflet_dist/org-locations.js')
+    .then(response => response.text())
+    .then(js => {
+      eval(js); // 假设 org-locations.js 是直接定义 locations = [...]
+      locations.forEach(loc => {
+        const marker = L.marker([loc.lat, loc.lon]).bindPopup(loc.name);
+        markers.addLayer(marker);
+      });
+      map.addLayer(markers);
+    });
+
+  // 当前访客位置打点（IPAPI）
+  fetch('https://ipapi.co/json')
+    .then(res => res.json())
+    .then(data => {
+      const lat = data.latitude, lon = data.longitude;
+      const marker = L.marker([lat, lon]).bindPopup(`👋 You are here: ${data.city}, ${data.country_name}`);
+      marker.addTo(map).openPopup();
+      map.setView([lat, lon], 6);
+    });
+</script>
+
+
+    
     
   </article>
 </div>
