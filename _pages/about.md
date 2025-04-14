@@ -13,7 +13,7 @@ Welcome to my homepage! I'm a third-year undergraduate student at the School of 
 
 I am transfixed by **computational neuroscience**, particularly the intersection of **bio-inspired algorithms** and **robotic systems**. My current research focuses on understanding and modeling how biological systems — especially insect visual circuits — perform robust and efficient perception in real time, and on applying these principles to real-world artificial systems.
 
-Currently, my work focus on:
+Currently, my work focuses on:
 - **Biologically-Plausible Visual Algorithms**: Developing neural models inspired by insect vision for motion perception, particularly looming detection.
 - **Collision Detection in Robotic Systems**: Creating lightweight solutions for collision avoidance in complex and dynamic natural environments.
 - **Embedded and Real-Time Implementation**: Designing neural algorithms that are efficient enough to run on extremely resource-constrained embedded platforms, supporting real-time interaction and safety in micro mobile robots.
