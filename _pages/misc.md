@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Miscellaneous"
+permalink: /misc/
+author_profile: true
+---
+
 # Inspiring Articles
 
 ## [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
