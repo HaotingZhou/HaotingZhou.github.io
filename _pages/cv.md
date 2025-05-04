@@ -40,6 +40,19 @@ redirect_from:
 *Machine Life and Intelligence Research Centre, Guangzhou University.*  
 Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)
 
+
+- **Real-time Visual Processing Systems Development of Micro-Mobile Robot**
+- Sept. 2023 - Present
+	- Deployed visual neural network models inspired by insect neurons onto the \href{https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17}{STM32-based micro-robot \textit{Colias}}, achieving real-time collision perception and avoidance.
+		
+	- Optimized model memory usage to fit within the **62 KByte** SRAM capacity of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17); developed and refined algorithms to enable real-time execution under extreme computational constraints (processing time **< 33 ms** on the STM32F427 chip); performed debugging, tuning, and conducted both offline and online experiments.
+		
+	- Selected code can be accessed below:
+	  [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/mLPLC2_Colias_Robot);
+	  [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
+		
+		
+		
 - **Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization**, paper accepted at IJCNN, *first author*.  
   Jul. 2024 - Nov. 2024  
   - Conducted a full-cycle research on modeling the lobula plate/lobula columnar, type 2 (LPLC2) neural ensemble of the fruit fly *Drosophila* with ultra-selectivity to looming objects for robust perception and localization of multiple looming objects by leveraging a bottom-up attention mechanism to generate attention fields driven by motion sensitive neural pathways.
@@ -54,16 +67,19 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
   Mar. 2023 - Present  
   - Reading and giving reports of research articles during research seminars on a weekly basis.
   - **Provincial Key** College Students' Innovative Entrepreneurial Training Plan Program: Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization.
-  - Modeled self-inhibition in neural networks for collision perception against translating motion; developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [*TurtleBot*](https://www.turtlebot.com/turtlebot3/) robots; designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions. **One manuscript of the above works is under review, and two are to be submitted**.
+  - Modeled self-inhibition in neural networks for collision perception against translating motion; developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [*TurtleBot*](https://www.turtlebot.com/turtlebot3/) robots; designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions. **Three manuscripts of the above works are under review**.
 
 ---
 
 ## Honors and Awards
 
-- **National First Prize (Top 5%)**, 2024 Asia and Pacific Mathematical Contest in Modeling  
+- **Honorable Mention**, Mathematical Contest in Modeling (MCM)
+  Jan. 2025
+
+- **National First Prize (Top 5%)**, Asia and Pacific Mathematical Contest in Modeling (APMCM)  
   Nov. 2024
 
-- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**, the 5th “Greater Bay Area Cup” Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
+- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**, "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition
   Nov. 2024
 
 - **The Third-Class Scholarship (Top 12%)**, *Guangzhou University*  
@@ -76,8 +92,8 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
 
 ## Skills
 
-- Language: **IELTS 6.5** (R8.0, L6.5, W6.0, S5.5), **CET-6 564**
-- Programming Languages: C/C++, Python, Matlab
-- Others: LaTeX, Keil, Webots, Linux, Git, Markdown, MS Office/Visio, Adobe Photoshop/Premiere Pro
+- **Language:** IELTS 6.5 (R8.0, L6.5, W6.0, S5.5), CET-6 564
+- **Programming Skills:** C/C++, Python, Matlab
+- **Others:** LaTeX, Keil, Webots, Linux, Git, Markdown, MS Office/Visio, Adobe Photoshop/Premiere Pro
 
 Hobbies: Movie, Music, Photography, Basketball, Jogging, Badminton, Hiking.
