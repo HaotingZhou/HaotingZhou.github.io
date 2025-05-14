@@ -40,7 +40,10 @@ redirect_from:
 *Machine Life and Intelligence Research Centre, Guangzhou University.*  
 Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)
 
-- **Real-time Visual Processing Systems Development of Micro-Mobile Robot** 
+- **Research on Computational Neuroscience for Collision Detection**  
+  Mar. 2023 - Present  
+
+- **Real-time Visual Processing Systems Development of Micro-Mobile Robot**	
   Sept. 2023 - Present
 	- Deployed visual neural network models inspired by insect neurons onto the [STM32-based micro-robot *Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), achieving real-time collision perception and avoidance.
 		
