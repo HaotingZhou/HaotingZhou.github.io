@@ -43,13 +43,15 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
 - **Research on Computational Neuroscience for Collision Detection**  
   Mar. 2023 - Present  
 
-- **Real-time Visual Processing Systems Development of Micro-Mobile Robot**	
-  Sept. 2023 - Present
+- **Real-time Visual Processing Systems Development of Micro-Mobile Robot**  
+  Sept. 2023 - Present  
   - Deployed visual neural network models inspired by insect neurons onto the [STM32-based micro-robot *Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), achieving real-time collision perception and avoidance.
   - Optimized model memory usage to fit within the **62 KByte** SRAM capacity of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17); developed and refined algorithms to enable real-time execution under extreme computational constraints (processing time **< 33 ms** on the STM32F427 chip); performed debugging, tuning, and conducted both offline and online experiments.
   - Selected code can be accessed below:
-   [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/mLPLC2_Colias_Robot);
-   [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
+    
+  [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/mLPLC2_Colias_Robot);
+
+  [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
 		
 		
 		
