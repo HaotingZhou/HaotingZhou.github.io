@@ -40,7 +40,7 @@ redirect_from:
 *Machine Life and Intelligence Research Centre, Guangzhou University.*  
 Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)
 
-- **Research on Computational Neuroscience for Collision Detection**  
+- **Research on Computational Neuroscience for Collision Detection**
   Mar. 2023 - Present  
 
 - **Real-time Visual Processing Systems Development of Micro-Mobile Robot**  
