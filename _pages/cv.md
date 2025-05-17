@@ -33,7 +33,7 @@ redirect_from:
 
 - G. Gao, **R. Liu**, M. Wang and Q. Fu, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024.*
 
-- J. Huang, Z. Qin, M. Wang, **R Liu**, and Q. Fu, [A biohybrid collision-detection visual neural model coordinating self-and-lateral inhibitions](https://ryannnice.github.io//assets/A%20biohybrid%20collision-detection%20visual%20neural%20model%20coordinating%20self-and-lateral%20inhibitions.pdf). Accepted at *The 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
+- J. Huang, Z. Qin, M. Wang, **R Liu**, and Q. Fu, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://www.researchgate.net/publication/391812073_A_biomimetic_collision_detection_visual_neural_model_coordinating_self-and-lateral_inhibitions). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
 ---
 
@@ -65,7 +65,7 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
   Mar. 2023- Present
   - Reading and giving reports of research articles during research seminars on a weekly basis.
   - Deployed visual neural network models inspired by insect neurons onto the [STM32-based micro-robot *Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), achieving real-time collision perception and avoidance. Optimized model memory usage to fit within the **62 KByte** SRAM capacity of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17); developed and refined algorithms to enable real-time execution under extreme computational constraints (processing time **< 33 ms** on the STM32F427 chip); performed debugging, tuning, and conducted both offline and online experiments.
-  - [**A poster** illustrating the fly-inspired closed-loop visual-perception and motion-control system](https://ryannnice.github.io/assets/TAROS_2025_Poster_100.pdf) for the micro robot [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) is submitted to **Towards Autonomous Robotic Systems (TAROS 2025)**.
+  - [**A poster** illustrating the fly-inspired closed-loop visual-perception and motion-control system](https://ryannnice.github.io/assets/TAROS_2025_Poster_100.pdf) for the micro robot [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) is submitted to *the 26th Towards Autonomous Robotic Systems (TAROS 2025)*.
   - Selected code can be accessed below:  
   [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/mLPLC2_Colias_Robot);  
   [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
