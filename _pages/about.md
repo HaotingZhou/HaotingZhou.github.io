@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm a third-year undergraduate student at the School of Mathematics and Information Science, [Guangzhou University](https://www.gzhu.edu.cn/xxgk/xxjj.htm). I am fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.com/citations?hl=zh-CN&user=YIte1M8AAAAJ) at the Machine Life and Intelligence Research Centre, Guangzhou University.
+Welcome to my homepage! I'm a third-year undergraduate student at the School of Mathematics and Information Science, [Guangzhou University](https://english.gzhu.edu.cn/). I am fortunate to be advised by [Prof. Qinbing Fu](https://scholar.google.com/citations?hl=zh-CN&user=YIte1M8AAAAJ) at the Machine Life and Intelligence Research Centre, Guangzhou University.
 
 ## Research Interests
 
