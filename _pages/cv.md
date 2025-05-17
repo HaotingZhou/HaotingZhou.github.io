@@ -76,12 +76,12 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
   Jul. 2024 - Nov. 2024  
   - Conducted full-cycle research on modeling the lobula plate/lobula columnar type 2 (LPLC2) neural ensemble in the fruit fly *Drosophila*, known for its ultra-selectivity to looming stimuli.
   - Developed the multi-attention LPLC2 (mLPLC2) neural network model inspired by the visual system of the fly by leveraging a bottom-up attention mechanism driven by motion-sensitive neural pathways
-([independently, 3k lines of code in C/C++](https://github.com/Ryannnice/Offline_Multi-Attention_LPLC2_Model)).
+([**independently, 3k lines of code in C/C++**](https://github.com/Ryannnice/Offline_Multi-Attention_LPLC2_Model)).
 
 - **A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition**, article published at *Biomimetics*, *second author*.  
   Mar. 2024 - Jul. 2024  
   - Participated in the entire research on modeling the optimized locust lobula giant movement detector neuron with detailed feed-forward inhibition (oLGMD) to enhance processing speed and the robustness towards translating movement.
-  - Implemented oLGMD model into the embedded system of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) ([independently, 1k lines of code in C](https://github.com/Ryannnice/Supplementary_Materials_FFI_ON_OFF/tree/main)), and conducted closed-loop arena comparative experiments to evaluate performance of oLGMD, achieving the highest success ratio of collision avoidance at 97.51% while nearly halving the processing time compared with previous LGMD models; conducted all online experiments of this paper, analyzing the results using real-world data collected by the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) robot; designed criteria to assess time efficiency and collision selectivity.
+  - Implemented oLGMD model into the embedded system of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), and conducted closed-loop arena comparative experiments to evaluate performance of oLGMD, achieving the highest success ratio of collision avoidance at 97.51% while nearly halving the processing time compared with previous LGMD models; conducted all online experiments of this paper, analyzing the results using real-world data collected by the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) robot; designed criteria to assess time efficiency and collision selectivity.
    - Led the initial writing of the introduction and experimentation sections; participated in revising the submitted paper.
 
 - **Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization, *Provincial Key*** *College Students’ Innovative Entrepreneurial Training Plan Program*.  
