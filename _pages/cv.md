@@ -72,7 +72,7 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
 		
 		
 		
-- **Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization**, paper accepted at IJCNN, *first author*.  
+- **Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization**, paper accepted at *IJCNN 2025*, *first author*.  
   Jul. 2024 - Nov. 2024  
   - Conducted full-cycle research on modeling the lobula plate/lobula columnar type 2 (LPLC2) neural ensemble in the fruit fly *Drosophila*, known for its ultra-selectivity to looming stimuli.
   - Developed the multi-attention LPLC2 (mLPLC2) neural network model inspired by the visual system of the fly by leveraging a bottom-up attention mechanism driven by motion-sensitive neural pathways
