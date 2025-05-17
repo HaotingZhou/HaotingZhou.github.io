@@ -84,10 +84,10 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
   - Implemented oLGMD model into the embedded system of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) ([independently, 1k lines of code in C](https://github.com/Ryannnice/Supplementary_Materials_FFI_ON_OFF/tree/main)), and conducted closed-loop arena comparative experiments to evaluate performance of oLGMD, achieving the highest success ratio of collision avoidance at 97.51% while nearly halving the processing time compared with previous LGMD models; conducted all online experiments of this paper, analyzing the results using real-world data collected by the *Colias* robot; designed criteria to assess time efficiency and collision selectivity.
    - Led the initial writing of the introduction and experimentation sections; participated in revising the submitted paper.
 
-- **Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization, *Provincial Key*** *College Students’ Innovative Entrepreneurial Training Plan Program*.
+- **Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization, *Provincial Key*** *College Students’ Innovative Entrepreneurial Training Plan Program*.  
   Mar. 2023 - Present  
   - Developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) and [*TurtleBot*](https://www.turtlebot.com/turtlebot3/) robots.
-  - Designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions. **Two manuscripts of the above works are under review**.
+  - Designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions. [**Two manuscripts of the above works are under review**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992).
 
 ---
 
