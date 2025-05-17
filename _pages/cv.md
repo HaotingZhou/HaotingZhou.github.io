@@ -33,7 +33,7 @@ redirect_from:
 
 - G. Gao, **R. Liu**, M. Wang and Q. Fu, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024.*
 
-J. Huang, Z. Qin, M. Wang, **R Liu**, and Q. Fu, [A biohybrid collision-detection visual neural model coordinating self-and-lateral inhibitions](https://ryannnice.github.io//assets/A%20biohybrid%20collision-detection%20visual%20neural%20model%20coordinating%20self-and-lateral%20inhibitions.pdf). Accepted at *The 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
+- J. Huang, Z. Qin, M. Wang, **R Liu**, and Q. Fu, [A biohybrid collision-detection visual neural model coordinating self-and-lateral inhibitions](https://ryannnice.github.io//assets/A%20biohybrid%20collision-detection%20visual%20neural%20model%20coordinating%20self-and-lateral%20inhibitions.pdf). Accepted at *The 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
 ---
 
