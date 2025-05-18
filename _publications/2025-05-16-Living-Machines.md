@@ -6,7 +6,7 @@ permalink: /publication/2025-05-16-lgmd-self-inhibition
 excerpt: 'This work focus on modeling self-inhibition in neural networks for collision perception against translating motion.'
 date: 2025-05-16
 venue: 'The 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)'
-paperurl: '../assets/A biomimetic collision-detection visual neural model coordinating self-and-lateral inhibitions.pdf'
+paperurl: 'https://www.researchgate.net/publication/391812073_A_biomimetic_collision_detection_visual_neural_model_coordinating_self-and-lateral_inhibitions'
 ---
 
 ## Abstract
@@ -15,4 +15,4 @@ Biologically inspired visual systems provide elegant and efficient solutions to 
 ## Keywards
 Biohybrid visual model, LGMD, Self-inhibition, Lateral inhibition, Collision detection
 
-## [You Can Access This Paper Here](../assets/A biohybrid collision-detection visual neural model coordinating self-and-lateral inhibitions.pdf)
+## [You Can Access This Paper Here](../assets/A biomimetic collision-detection visual neural model coordinating self-and-lateral inhibitions.pdf)
