@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haoting Zhou's Homepage"
+title                    : "Haoting's Homepage"
 title_separator          : "-"
 name                     : &name "Haoting Zhou"
 description              : &description "personal description"
