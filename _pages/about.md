@@ -21,6 +21,6 @@ Currently, my work focuses on:
 Ultimately, I aim to advance the development of **machine life** endowed with embodied intelligence, robustness, and energy efficiency, by drawing inspiration from the compact, adaptive, and efficient nature of insect brains.
 
 
-I am actively looking for research or graduate positions for **Fall 2026**, and would be grateful for any opportunity to contribute and learn 😀. You can find my CV here: [Renyuan's Curriculum Vitae](../assets/CV_RenyuanLiu.pdf).
+I am actively looking for research or graduate positions for **Fall 2026**, and would be grateful for any opportunity to contribute and learn 😀. You can find my CV here: [RENYUAN LIU](../assets/CV_RenyuanLiu.pdf).
 
 [GitHub](https://github.com/Ryannnice) / [WeChat](../images/WeChat.png) / [Instagram](https://www.instagram.com/ren_yvan/)
