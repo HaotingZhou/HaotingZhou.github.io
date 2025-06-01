@@ -39,6 +39,9 @@ redirect_from:
 
 ## Honors and Awards
 
+- **Provincial First Prize**, Chinese Collegiate Computing Competition  
+  May 2025
+  
 - **Honorable Mention**, Mathematical Contest in Modeling (MCM)  
   Jan. 2025
 
