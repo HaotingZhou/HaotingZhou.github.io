@@ -36,6 +36,16 @@ redirect_from:
 - J. Huang, Z. Qin, M. Wang, **R Liu**, and Q. Fu, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://www.researchgate.net/publication/391812073_A_biomimetic_collision_detection_visual_neural_model_coordinating_self-and-lateral_inhibitions). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
 ---
+## Manuscripts Under Review
+
+- M. Wang<sup>*</sup>, **R. Liu**<sup>*</sup>, W. He, and Q. Fu, A neuronal assembly model with elevated time derivative boosts loom-selectivity. *Submitted to PeerJ Computer Science (JCR Q1).*
+	
+- C. Fang<sup>*</sup>, H. Zhou, **R. Liu**, and Q. Fu<sup>*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *Submitted to Neurocomputing (JCR Q1).*
+
+- H. Zhou, C. Fang, **R. Liu**, and Q. Fu, A bio-plausible neural network integrating motion and disparity pathways for looming perception. *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
+
+
+---
 
 ## Honors and Awards
 
