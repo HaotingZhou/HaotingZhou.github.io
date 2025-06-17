@@ -29,9 +29,9 @@ redirect_from:
 
 ## Publications
 
-- **R. Liu** and Q. Fu, [Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization](https://arxiv.org/abs/2504.04477). *Accepted at International Joint Conference on Neural Networks (IJCNN 2025, acceptance rate ≈ 38%)*.
+- **R. Liu** and Q. Fu, [Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization](https://arxiv.org/abs/2504.04477). *Accepted at International Joint Conference on Neural Networks (CCF-C, acceptance rate ≈ 38%)*.
 
-- G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024.*
+- G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024 (JCR Q1).*
 
 - J. Huang<sup>\*</sup>, Z. Qin, M. Wang, **R Liu**, and Q. Fu<sup>\*</sup>, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://www.researchgate.net/publication/391812073_A_biomimetic_collision_detection_visual_neural_model_coordinating_self-and-lateral_inhibitions). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
