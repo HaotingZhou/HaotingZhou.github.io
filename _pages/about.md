@@ -14,8 +14,8 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## Research Interests
 
-2025.07.01 Updated:
-### Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems.
+***<font color = '#CC0000'>2025.07.01 Updated:</font>***
+### <font color = '#000066'>Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems.</font>
 
 I am currently conducting research at the **University of York**, working with the **TurtleBot 3** and the **Franka Emika Panda** robotic platforms. My work focuses on understanding and abstracting the design principles found in biological systems, with the aim of advancing autonomous motion learning and control.
 
