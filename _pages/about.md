@@ -23,7 +23,7 @@ By modeling and transferring the motor and cognitive capabilities observed in hu
 This summer, I am particularly focused on deepening our understanding of the biological foundations of **lifelong learning** — including the adaptability, autonomy, and resilience seen in animals. My goal is to translate these insights into novel approaches for machine intelligence, robotic control systems, and bio-inspired actuators, with an emphasis on energy efficiency, generalization, and long-term adaptability.
 
 
-### Neuro-Embodied Micro-Robots
+### <font color = '#000066'>Neuro-Embodied Micro-Robots</font>
 
 I am transfixed by **computational neuroscience**, particularly the intersection of **bio-inspired algorithms** and **robotic systems**. I am trying to understand and model biological systems — especially insect visual circuits — that exhibit robust and efficient real-time perception, and applying these principles to real-world artificial systems.
 
