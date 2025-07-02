@@ -109,6 +109,6 @@ Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAA
 
 - **Language:** **IELTS 6.5** (R8.0, L6.5, W6.0, S5.5), **CET-6 564** (242/248.5 in the reading section)
 - **Programming Skills:** C/C++, Python, Matlab
-- **Others:** LaTeX, Keil, Webots, Linux, Git, Markdown, MS Office/Visio, Adobe Photoshop/Premiere Pro
+- **Others:** ROS, LaTeX, Keil, Webots, Linux, Git, Markdown, MS Office/Visio, Adobe Photoshop/Premiere Pro
 
 Hobbies: Movie, Music, Photography, Basketball, Jogging, Badminton, Hiking.
