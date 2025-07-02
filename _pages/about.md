@@ -14,6 +14,18 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## Research Interests
 
+2025.07.01 Updated:
+### Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems.
+
+I am currently conducting research at the **University of York**, working with the **TurtleBot 3** and the **Franka Emika Panda** robotic platforms. My work focuses on understanding and abstracting the design principles found in biological systems, with the aim of advancing autonomous motion learning and control.
+
+By modeling and transferring the motor and cognitive capabilities observed in humans and animals, I seek to improve robot perception, motion generation, and sensorimotor learning. This involves exploring biologically inspired mechanisms to enhance adaptability, robustness, and real-time learning in autonomous systems.
+
+This summer, I am particularly focused on deepening our understanding of the biological foundations of **lifelong learning** — including the adaptability, autonomy, and resilience seen in animals. My goal is to translate these insights into novel approaches for machine intelligence, robotic control systems, and bio-inspired actuators, with an emphasis on energy efficiency, generalization, and long-term adaptability.
+
+
+### Neuro-Embodied Micro-Robots
+
 I am transfixed by **computational neuroscience**, particularly the intersection of **bio-inspired algorithms** and **robotic systems**. I am trying to understand and model biological systems — especially insect visual circuits — that exhibit robust and efficient real-time perception, and applying these principles to real-world artificial systems.
 
 Currently, my work focuses on:
