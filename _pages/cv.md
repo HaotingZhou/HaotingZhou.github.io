@@ -49,7 +49,7 @@ redirect_from:
 
 ## Honors and Awards
 
-- **Provincial First Prize**, Chinese Collegiate Computing Competition  
+- **Provincial First Prize**, Chinese Collegiate Computing Competition (4C) 
   May 2025
   
 - **Honorable Mention**, Mathematical Contest in Modeling (MCM)  
@@ -58,7 +58,8 @@ redirect_from:
 - **National First Prize (Top 5%)**, Asia and Pacific Mathematical Contest in Modeling (APMCM)  
   Nov. 2024
 
-- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**, "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
+- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**,
+  "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
   Nov. 2024
 
 - **The Third-Class Scholarship (Top 12%)**, *Guangzhou University*  
