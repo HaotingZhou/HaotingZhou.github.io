@@ -58,7 +58,7 @@ redirect_from:
 - **National First Prize (Top 5%)**, Asia and Pacific Mathematical Contest in Modeling (APMCM)  
   Nov. 2024
 
-- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**,
+- **Provincial First Prize & Innovation Silver Award (Top 2 out of 1,167 Teams)**, 
   "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
   Nov. 2024
 
