@@ -72,32 +72,7 @@ redirect_from:
 
 ## Research Experience
 
-
-% The University of York
-\begin{adjustwidth}{-0.22in}{0in}
-	\textbf{Computational Autonomous Learning Systems Lab}
-	\quad Advisor:  \href{https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN}
-	{Prof. Pengcheng Liu} \\
-	\href{https://www.york.ac.uk/computer-science/research/}
-	{Department of Computer Science, University of York}, York, UK \textbf{(On-Site)}
-	%\hfill \href{https://ryannnice.github.io/assets/Invitation Letter.pdf}{Jun. 2025 -- Aug. 2025 (Ongoing)} 
-\end{adjustwidth}
-% Project 1 at CALS: 
-\begin{itemize}[left = -0.22in]
-	
-	\item \textbf{Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems}.\hfill Jun. 2025 -- Present
-	\begin{itemize}[label=\textopenbullet] % 使用空心点
-		\item
-		Working with the
-		\href{https://franka.de/}{\textit{\textbf{Franka Emika Panda}}}
-		and
-		\href{https://www.turtlebot.com/turtlebot3/}{\textit{TurtleBot}3} 
-		, I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.
-	\end{itemize}
-\end{itemize}
-
-
-*Computational Autonomous Learning Systems Lab*  
+**Computational Autonomous Learning Systems Lab**  
 Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN)  
 [Department of Computer Science, University of York](https://www.york.ac.uk/computer-science/research/), York, UK **(On-Site)**  
 
@@ -106,7 +81,7 @@ Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0
   - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
 
 
-*Machine Life and Intelligence Research Centre*  
+**Machine Life and Intelligence Research Centre**  
 Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
 School of Mathematics and Information Science, Guangzhou University, Guangzhou, China  
 
