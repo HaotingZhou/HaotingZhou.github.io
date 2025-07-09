@@ -33,16 +33,16 @@ redirect_from:
 
 - G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024 (JCR Q1).*
 
-- J. Huang<sup>\*</sup>, Z. Qin, M. Wang, **R Liu**, and Q. Fu<sup>\*</sup>, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://www.researchgate.net/publication/391812073_A_biomimetic_collision_detection_visual_neural_model_coordinating_self-and-lateral_inhibitions). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
+- J. Huang<sup>\*</sup>, Z. Qin, M. Wang, **R Liu**, and Q. Fu<sup>\*</sup>, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://ryannnice.github.io/assets/A biomimetic collision detection visual neural model coordinating self-and-lateral inhibitions.pdf). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
 ---
 ## Manuscripts Under Review
 
-- M. Wang<sup>\*</sup>, **R. Liu**<sup>\*</sup>, W. He, and Q. Fu, A neuronal assembly model with elevated time derivative boosts loom-selectivity. *Submitted to PeerJ Computer Science (JCR Q1).*
+- M. Wang<sup>\*</sup>, **R. Liu**<sup>\*</sup>, W. He, and Q. Fu, [A neuronal assembly model with elevated time derivative boosts loom-selectivity](https://ryannnice.github.io/assets/peerj-reviewing-120521-v0.pdf). *Submitted to PeerJ Computer Science (JCR Q1).*
 	
 - C. Fang<sup>\*</sup>, H. Zhou, **R. Liu**, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *Submitted to Neurocomputing (JCR Q1).*
 
-- H. Zhou, C. Fang, **R. Liu**, and Q. Fu, A bio-plausible neural network integrating motion and disparity pathways for looming perception. *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
+- H. Zhou, C. Fang, **R. Liu**, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
 
 
 ---
@@ -72,8 +72,43 @@ redirect_from:
 
 ## Research Experience
 
-*Machine Life and Intelligence Research Centre, Guangzhou University.*  
-Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)
+
+% The University of York
+\begin{adjustwidth}{-0.22in}{0in}
+	\textbf{Computational Autonomous Learning Systems Lab}
+	\quad Advisor:  \href{https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN}
+	{Prof. Pengcheng Liu} \\
+	\href{https://www.york.ac.uk/computer-science/research/}
+	{Department of Computer Science, University of York}, York, UK \textbf{(On-Site)}
+	%\hfill \href{https://ryannnice.github.io/assets/Invitation Letter.pdf}{Jun. 2025 -- Aug. 2025 (Ongoing)} 
+\end{adjustwidth}
+% Project 1 at CALS: 
+\begin{itemize}[left = -0.22in]
+	
+	\item \textbf{Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems}.\hfill Jun. 2025 -- Present
+	\begin{itemize}[label=\textopenbullet] % 使用空心点
+		\item
+		Working with the
+		\href{https://franka.de/}{\textit{\textbf{Franka Emika Panda}}}
+		and
+		\href{https://www.turtlebot.com/turtlebot3/}{\textit{TurtleBot}3} 
+		, I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.
+	\end{itemize}
+\end{itemize}
+
+
+*Computational Autonomous Learning Systems Lab*  
+Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN)  
+[Department of Computer Science, University of York](https://www.york.ac.uk/computer-science/research/), York, UK **(On-Site)**  
+
+- **Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems**
+  [Jun. 2025 -- Aug. 2025 (Ongoing)](https://ryannnice.github.io/assets/Invitation Letter.pdf)  
+  - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
+
+
+*Machine Life and Intelligence Research Centre*  
+Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
+School of Mathematics and Information Science, Guangzhou University, Guangzhou, China  
 
 - **Real-time Visual Processing Systems Development of Micro-Mobile Robot**  
   Mar. 2023- Present
