@@ -72,7 +72,7 @@ redirect_from:
 
 ## Research Experience
 
-**Computational Autonomous Learning Systems Lab**    Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN)  
+**Computational Autonomous Learning Systems Lab**&emsp;&emsp;Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN)  
 [Department of Computer Science, University of York](https://www.york.ac.uk/computer-science/research/), York, UK **(On-Site)**  
 
 - **Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems**  
@@ -80,7 +80,7 @@ redirect_from:
   - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
 
 
-**Machine Life and Intelligence Research Centre**    Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
+**Machine Life and Intelligence Research Centre**&emsp;&emsp;Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
 School of Mathematics and Information Science, Guangzhou University, Guangzhou, China  
 
 - **Real-time Visual Processing Systems Development of Micro-Mobile Robot**  
