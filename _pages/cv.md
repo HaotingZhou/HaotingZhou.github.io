@@ -79,6 +79,7 @@ redirect_from:
   Jun. 2025 -- Aug. 2025 (Ongoing)
   - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
 
+&nbsp;
 
 **Machine Life and Intelligence Research Centre**&emsp;&emsp;Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
 School of Mathematics and Information Science, Guangzhou University, Guangzhou, China  
