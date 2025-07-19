@@ -11,9 +11,7 @@ Welcome to my homepage! I'm a third-year undergraduate student at the School of 
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***, and would be grateful for any opportunity to contribute and learn 😀. You can find my CV here: [**<font color = '#000066'>RENYUAN LIU</font>**](../assets/CV_RenyuanLiu.pdf)***<font color = '#CC0000'>（2025.07.05 Updated）</font>***.
 
-2025.07.19 – I successfully delivered my **first** oral presentation at the *Living Machines 2025* conference, held at the University of Sheffield.  
-This experience was an inspiring milestone in my research journey into bio-inspired robotics and lifelong learning.  
-[Here are some photos from the conference.]()
+2025.07.19 – I successfully delivered an oral presentation **for the first time** at the *Living Machines 2025* conference, held at the University of Sheffield. This experience was an inspiring milestone in my research journey into bio-inspired robotics and lifelong learning. [Here are some photos from the conference.]()
 
 
 ## Research Interests
