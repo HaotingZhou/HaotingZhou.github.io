@@ -15,4 +15,4 @@ Biologically inspired visual systems provide elegant and efficient solutions to 
 ## Keywards
 Biohybrid visual model, LGMD, Self-inhibition, Lateral inhibition, Collision detection
 
-## [You Can Access This Paper Here](https://ryannnice.github.io/assets/A biomimetic collision detection visual neural model coordinating self-and-lateral inhibitions.pdf)
+
