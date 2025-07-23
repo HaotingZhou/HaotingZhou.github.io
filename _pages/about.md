@@ -20,7 +20,7 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## News
 
-* **<font color = '#800080'>[Jul 22nd, 2025]** Paper accepted at ***Neurocomputing*** **[JCR Q1, SCI-2, IF = 6.5]!</font>**
+* **<font color = '#800080'>[Jul 22nd, 2025] Paper accepted at *Neurocomputing* [JCR Q1, SCI-2, IF = 6.5]!</font>**
 
 
 
