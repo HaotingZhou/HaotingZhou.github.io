@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [Renyuan Liu](https://ryannnice.github.io)
+# [Chuankai Fang](https://totot123456.github.io/)
 +86 14784206312 | rliu@e.gzhu.edu.cn  
 
 ---
@@ -29,28 +29,18 @@ redirect_from:
 
 ## Publications
 
-- **R. Liu** and Q. Fu, [Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization](https://arxiv.org/abs/2504.04477). *Accepted at International Joint Conference on Neural Networks (CCF-C, acceptance rate ≈ 38%)*.
+- **C. Fang**<sup>\*</sup>, H. Zhou, R. Liu, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *<font color = '#CC0000'>Accepted at Neurocomputing (JCR Q1, IF = 6.5).</font>*
 
-- G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024 (JCR Q1, IF = 3.4).*
-
-- C. Fang<sup>\*</sup>, H. Zhou, **R. Liu**, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *<font color = '#CC0000'>Accepted at Neurocomputing (JCR Q1, IF = 6.5).</font>*
-
-- J. Huang<sup>\*</sup>, Z. Qin, M. Wang, **R Liu**, and Q. Fu<sup>\*</sup>, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://ryannnice.github.io/assets/A biomimetic collision detection visual neural model coordinating self-and-lateral inhibitions.pdf). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
 ---
 ## Manuscripts Under Review
 
-- M. Wang<sup>\*</sup>, **R. Liu**<sup>\*</sup>, W. He, and Q. Fu, [A neuronal assembly model with elevated time derivative boosts loom-selectivity](https://ryannnice.github.io/assets/peerj-reviewing-120521-v0.pdf). *Submitted to PeerJ Computer Science (JCR Q1).*
-
-- H. Zhou, C. Fang, **R. Liu**, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
+- H. Zhou, **C. Fang**, R. Liu, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
 
 
 ---
 
 ## Honors and Awards
-
-- **Provincial First Prize**, Chinese Collegiate Computing Competition (4C)  
-  May 2025
   
 - **Honorable Mention**, Mathematical Contest in Modeling (MCM)  
   Jan. 2025
@@ -62,11 +52,6 @@ redirect_from:
   "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Competition  
   Nov. 2024
 
-- **The Third-Class Scholarship (Top 12%)**, *Guangzhou University*  
-  Nov. 2024
-
-- **The First-Class Scholarship (Top 5%)**, *Guangzhou University*  
-  Nov. 2023
 
 ---
 
@@ -115,7 +100,7 @@ School of Mathematics and Information Science, Guangzhou University, Guangzhou, 
 ---
 
 
-## Skills / ***<font color = '#CC0000'>Learning is the one of the happniest thing in the world</font>***
+## Skills 
 
 - **Language:** **IELTS 6.5** (R8.0, L6.5, W6.0, S5.5), **CET-6 564** (242/248.5 in the reading section)
 - **Programming Skills:** C/C++, Python, Matlab
