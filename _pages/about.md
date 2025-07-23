@@ -31,4 +31,4 @@ My current research seopemainly covers <font color = '#800080'>bio-inspired visu
 
 
 
-[GitHub](https://github.com/TOTOT123456) / [WeChat](../images/ckf.png) 
+[GitHub](https://github.com/HaotingZhou) / [WeChat](../images/WeChat_haoting.jpg) 
