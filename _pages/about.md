@@ -26,8 +26,8 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## Research Interests
 
-My current research seopemainly covers <font color = '#800080'>**bio-inspired neura networks, robotic collision detection, motion perception.algorithm design and binocular stereo vision.
-**</font>
+My current research seopemainly covers **<font color = '#800080'>bio-inspired neura networks, robotic collision detection, motion perception.algorithm design and binocular stereo vision.
+</font>**
 
 
 
