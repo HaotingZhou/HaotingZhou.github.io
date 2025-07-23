@@ -1,7 +1,7 @@
 ---
 title: "A Neuromorphic Binocular Framework Fusing Directional and Depth Motion Cues Towards Precise Collision Prediction"
 collection: publications
-category: conference
+category: carticle
 permalink: /publication/2025-07-22-binocular-dsn
 excerpt: 'Inspired by insect directionally selective neurons, this study proposes and optimizes a binocular neuromorphic vision model that integrates depth-disparity processing to enhance looming detection and collision prediction.'
 date: 2025-07-22
