@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Nice to Meet U Here! 
+Nice to Meet U Here!  
 I'm currently pursuing my bachelor's degree at the School of Mathematicsand information Science, Cuangzhou University. 
 I am closely collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
 
