@@ -17,7 +17,7 @@ redirect_from:
 
 - **[Guangzhou University](https://english.gzhu.edu.cn/)**  
   Sept. 2022 - Jun. 2026 (Expected)  
-  B.Eng. in Computer Science (Information Security); .................................
+  B.Sc. in 信息与计算科学; .................................
 
 
 
