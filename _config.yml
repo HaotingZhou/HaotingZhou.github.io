@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "HOME"
+title                    : "Chuankai Fang's Home"
 title_separator          : "-"
-name                     : &name "Renyuan Liu"
+name                     : &name "Chuankai Fang"
 description              : &description "personal description"
-url                      : https://ryannnice.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://totot123456.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ryannnice/ryannnice.github.io"
+repository               : "TOTOT123456/TOTOT123456.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "me31.png" # "me4.png" # "me5.png" 
   name             : "Renyuan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Learning is the one of the happniest thing in the world !"#: I am eager to explore any area within Robotic/Computer Sciense applications that contributes to the well-being of society." # " My academic interests lie at the intersection of robotics and biology, and I am eager to explore any area within robotic applications that contributes to the well-being of society. " #"Currently pursuing the B.E. degree with the School of Mathematics and Information Science, Guangzhou University."
+  bio              : "Chuankai Fang is currently pursuing his bachelor's degree at the School of Mathematicsand information Science, Cuangzhou University, He is collaborating with researchers atthe Center for Machine Life and Intelligence of Guangzhou University, His research seopemainly covers bio-inspired neura networks, robotic collision detection, motion perception.algorithm design and binocular stereo vision."
   location         : "Zhengzhou/Guangzhou, China"
   employer         : "Guangzhou University"
   uri              : # URL
