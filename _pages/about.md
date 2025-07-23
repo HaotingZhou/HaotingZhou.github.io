@@ -14,15 +14,15 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## <font color = '#CC0000'>News</font>
 
-* **[Jul. 22nd, 2025]** Paper accepted at ***Neurocomputing*** **[JCR Q1, SCI-2, IF = 6.5]**!
+* **[Jul 22nd, 2025]** Paper accepted at ***Neurocomputing*** **[JCR Q1, SCI-2, IF = 6.5]**!
   
-* **[Jul. 18th, 2025]** I delivered my **first oral presentation** at the *Living Machines 2025* conference, held at the University of Sheffield! [Here are some photos from the conference.](https://ryannnice.github.io/assets/LivingMachines.pdf).
+* **[Jul 18th, 2025]** I delivered my **first oral presentation** at the *Living Machines 2025* conference, held at the University of Sheffield! [Here are some photos from the conference.](https://ryannnice.github.io/assets/LivingMachines.pdf).
 
-* **[Jul. 11th]** Poster accepted at ***TAROS 2025***.
+* **[Jul 11th, 2025]** Poster accepted at ***TAROS 2025***.
 
-* **[Jun. 9th]** Paper accepted at ***Living Machines 2025***.
+* **[Jun 9th, 2025]** Paper accepted at ***Living Machines 2025***.
   
-* **[May. 1st]** Paper accepted at ***IJCNN 2025*** **[CCF-C, AR = 38%]**.
+* **[May 1st, 2025]** Paper accepted at ***IJCNN 2025*** **[CCF-C, AR = 38%]**.
 
 
 
