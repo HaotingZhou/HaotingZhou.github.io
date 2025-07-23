@@ -41,8 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-.author__avatar img {
-   object-fit: cover;  /* 裁切填充，防止拉伸变形 */
-   border-radius: 50% / 10%;
-}
