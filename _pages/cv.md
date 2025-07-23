@@ -31,7 +31,9 @@ redirect_from:
 
 - **R. Liu** and Q. Fu, [Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization](https://arxiv.org/abs/2504.04477). *Accepted at International Joint Conference on Neural Networks (CCF-C, acceptance rate ≈ 38%)*.
 
-- G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024 (JCR Q1).*
+- G. Gao<sup>\*</sup>, **R. Liu**, M. Wang and Q. Fu<sup>\*</sup>, [A Computationally Efficient Neuronal Model for Collision Detection With Contrast Polarity-Specific Feed-Forward Inhibition](https://www.mdpi.com/2313-7673/9/11/650). *Biomimetics, vol. 9, no. 11, p. 650, 2024 (JCR Q1, IF = 3.4).*
+
+- C. Fang<sup>\*</sup>, H. Zhou, **R. Liu**, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *Accepted at Neurocomputing (JCR Q1, IF = **6.5**).*
 
 - J. Huang<sup>\*</sup>, Z. Qin, M. Wang, **R Liu**, and Q. Fu<sup>\*</sup>, [A Biomimetic Collision Detection Visual Neural Model Coordinating Self-and-Lateral Inhibitions](https://ryannnice.github.io/assets/A biomimetic collision detection visual neural model coordinating self-and-lateral inhibitions.pdf). Accepted at *the 14th International Conference on Biomimetic and Biohybrid Systems (Living Machines 2025)*.
 
@@ -39,8 +41,6 @@ redirect_from:
 ## Manuscripts Under Review
 
 - M. Wang<sup>\*</sup>, **R. Liu**<sup>\*</sup>, W. He, and Q. Fu, [A neuronal assembly model with elevated time derivative boosts loom-selectivity](https://ryannnice.github.io/assets/peerj-reviewing-120521-v0.pdf). *Submitted to PeerJ Computer Science (JCR Q1).*
-	
-- C. Fang<sup>\*</sup>, H. Zhou, **R. Liu**, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *Submitted to Neurocomputing (JCR Q1).*
 
 - H. Zhou, C. Fang, **R. Liu**, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
 
@@ -88,7 +88,7 @@ School of Mathematics and Information Science, Guangzhou University, Guangzhou, 
   Mar. 2023- Present
   - Reading and giving reports of research articles during research seminars on a weekly basis.
   - Deployed visual neural network models inspired by insect neurons onto the [STM32-based micro-robot *Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), achieving real-time collision perception and avoidance. Optimized model memory usage to fit within the **62 KByte** SRAM capacity of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17); developed and refined algorithms to enable real-time execution under extreme computational constraints (processing time **< 33 ms** on the STM32F427 chip); performed debugging, tuning, and conducted both offline and online experiments.
-  - [**A poster** illustrating the fly-inspired closed-loop visual-perception and motion-control system](https://ryannnice.github.io/assets/TAROS_2025_Poster_100.pdf) for the micro robot [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) is submitted to *the 26th Towards Autonomous Robotic Systems (TAROS 2025)*.
+  - [**A poster** illustrating the fly-inspired closed-loop visual-perception and motion-control system](https://ryannnice.github.io/assets/TAROS_2025_Poster_100.pdf) for the micro robot [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) is accepted at *the 26th Towards Autonomous Robotic Systems (TAROS 2025)*.
   - Selected code can be accessed below:  
   [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/neuro-life-project);  
   [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
