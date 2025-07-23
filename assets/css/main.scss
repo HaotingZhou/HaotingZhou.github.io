@@ -43,5 +43,6 @@
 ;
 
 .author__avatar img {
-  border-radius: 50% / 20%;
+   object-fit: cover;  /* 裁切填充，防止拉伸变形 */
+   border-radius: 50% / 10%;
 }
