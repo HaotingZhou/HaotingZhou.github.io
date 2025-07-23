@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-Chuankai Fang is currently pursuing his bachelor's degree at the School of Mathematicsand information Science, [Guangzhou University](https://english.gzhu.edu.cn/), He is collaborating with researchers atthe Center for Machine Life and Intelligence of Guangzhou University, 
+Welcome to my homepage! I'm currently pursuing his bachelor's degree at the School of Mathematicsand information Science, [Guangzhou University](https://english.gzhu.edu.cn/), He is collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
 
-
-Welcome to my homepage! I'm currently pursuing his bachelor's degree at the School of Mathematicsand information Science, Cuangzhou University, He is collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
+Nice to Meet U Here! 
+I'm currently pursuing my bachelor's degree at the School of Mathematicsand information Science, Cuangzhou University. 
+I am closely collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
 
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***. [**<font color = '#800080'>You can find my CV HERE.</font>**](../assets/CV.pdf).
@@ -25,8 +26,8 @@ I am actively looking for research or graduate positions for ***<font color = '#
 
 ## Research Interests
 
-My current research seopemainly covers bio-inspired neura networks, robotic collision detection, motion perception.algorithm design and binocular stereo vision.
-
+My current research seopemainly covers <font color = '#800080'>**bio-inspired neura networks, robotic collision detection, motion perception.algorithm design and binocular stereo vision.
+**</font>
 
 
 
