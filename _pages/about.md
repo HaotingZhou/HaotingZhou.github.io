@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuankai Fang (房川凯)"
+title: "Haoting Zhou (周浩艇)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,9 +26,7 @@ You can find my CV [**<font color = '#800080'>HERE</font>**.](../assets/CV.pdf).
 
 ## Research Interests
 
-My current research seopemainly covers <font color = '#800080'>bio-inspired neura networks</font>, <font color = '#800080'>robotic collision detection</font>, <font color = '#800080'>motion perception algorithm design</font> and <font color = '#800080'>binocular stereo vision</font>.
-
-
+My current research seopemainly covers <font color = '#800080'>bio-inspired visual recognition</font>, <font color = '#800080'>artifcial neural networks</font>, <font color = '#800080'>robot collision detection</font> and <font color = '#800080'>multimodal learning for embedded systems</font>.
 
 
 
