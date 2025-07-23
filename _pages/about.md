@@ -15,7 +15,7 @@ I am closely collaborating with researchers at Machine Life and Intelligence Res
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***.  
 
-[You can find my CV **<font color = '#800080'>HERE</font>**.](../assets/CV.pdf).
+You can find my CV [**<font color = '#800080'>HERE</font>**.](../assets/CV.pdf).
 
 
 ## News
