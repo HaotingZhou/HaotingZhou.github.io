@@ -109,7 +109,7 @@ School of Mathematics and Information Science, Guangzhou University, Guangzhou, 
 
 - **Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization, *Provincial Key*** *College Students’ Innovative Entrepreneurial Training Plan Program*.  
   Mar. 2023 - Present  
-  - Developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*TurtleBot* 4](https://www.turtlebot.com/turtlebot3/) robot.
+  - Developed neuromorphic binocular models for collision prediction which combines directional and depth motion cues; optimized directional-selective neuron parameters using a genetic algorithm; collected a stereo RGB-D dataset capturing diverse indoor-outdoor collision scenarios to support model training and evaluation; conducted online robotic experiments with the [*TurtleBot* 4](www.clearpathrobotics.com/turtlebot-4/) robot.
   - Designed detailed figures illustrating the models and experiments; drafted manuscript introductions, and contributed to manuscript revisions.
 
 ---
