@@ -22,7 +22,7 @@ repository               : "HaotingZhou/HaotingZhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ckf_photo_oval.png" # "ckf_photo_oval.png" # "ckf_photo.png"
+  avatar           : "haoting_photo.png" # "ckf_photo_oval.png" # "ckf_photo_oval.png" # "ckf_photo.png"
   name             : "Haoting Zhou" 
   pronouns         : # example: "she/her"  
   bio              : "My current research seopemainly covers bio-inspired visual recognition, artifcial neural networks, robot collision detection and multimodal learning for embedded systems."
