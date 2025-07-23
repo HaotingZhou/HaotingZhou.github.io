@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-Welcome to my homepage! I'm currently pursuing his bachelor's degree at the School of Mathematicsand information Science, [Guangzhou University](https://english.gzhu.edu.cn/), He is collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
-
 Nice to Meet U Here! 
 I'm currently pursuing my bachelor's degree at the School of Mathematicsand information Science, Cuangzhou University. 
 I am closely collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
