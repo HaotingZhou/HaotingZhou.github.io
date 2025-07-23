@@ -18,7 +18,7 @@ I am actively looking for research or graduate positions for ***<font color = '#
   
 * **[Jul. 18th, 2025]** I delivered my **first oral presentation** at the *Living Machines 2025* conference, held at the University of Sheffield! [Here are some photos from the conference.](https://ryannnice.github.io/assets/LivingMachines.pdf).
 
-* **[Jun. 11st]** Poster accepted at ***TAROS 2025***.
+* **[Jul. 11th]** Poster accepted at ***TAROS 2025***.
 
 * **[Jun. 9th]** Paper accepted at ***Living Machines 2025***.
   
