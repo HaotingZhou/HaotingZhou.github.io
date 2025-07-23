@@ -76,7 +76,7 @@ redirect_from:
 [Department of Computer Science, University of York](https://www.york.ac.uk/computer-science/research/), York, UK **(On-Site)**  
 
 - **Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems**  
-  Jun. 2025 -- Present #Aug. 2025 (Ongoing)
+  Jun. 2025 -- Present
   - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
 
 &nbsp;
