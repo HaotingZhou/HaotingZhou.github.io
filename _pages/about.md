@@ -15,12 +15,12 @@ I am closely collaborating with researchers at Machine Life and Intelligence Res
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***.  
 
-You can find my CV [**<font color = '#83FBC9'>HERE</font>**.](../assets/CV.pdf).
+You can find my CV [**<font color = '#7ECAAE'>HERE</font>**.](../assets/CV.pdf).
 
 
 ## News
 
-* **<font color = '#83FBC9'>[Jul 22nd, 2025] Paper accepted at </font>** ***<font color = '#83FBC9'>Neurocomputing</font>*** **<font color = '#83FBC9'>[JCR Q1, SCI-2, IF = 6.5]!</font>**
+* **<font color = '#7ECAAE'>[Jul 22nd, 2025] Paper accepted at </font>** ***<font color = '#7ECAAE'>Neurocomputing</font>*** **<font color = '#7ECAAE'>[JCR Q1, SCI-2, IF = 6.5]!</font>**
 
 
 
@@ -33,6 +33,3 @@ My current research seopemainly covers <font color = '#7ECAAE'>bio-inspired visu
 
 [GitHub](https://github.com/HaotingZhou) / [WeChat](../images/WeChat_haoting.png) 
 
-
-#7ECAAE
-#83FBC9
