@@ -13,7 +13,9 @@ I'm currently pursuing my bachelor's degree at the School of Mathematicsand info
 I am closely collaborating with researchers at Machine Life and Intelligence Research Centre, Guangzhou University.
 
 
-I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***. [**<font color = '#800080'>You can find my CV HERE.</font>**](../assets/CV.pdf).
+I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***.  
+
+[**<font color = '#800080'>You can find my CV HERE.</font>**](../assets/CV.pdf).
 
 
 ## News
