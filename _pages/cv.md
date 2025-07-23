@@ -17,15 +17,12 @@ redirect_from:
 
 - **[Guangzhou University](https://english.gzhu.edu.cn/)**  
   Sept. 2022 - Jun. 2026 (Expected)  
-  B.Eng. in Computer Science (Information Security); **GPA: 90.13/100.00; Ranking: Top 10%**  
-  **Curriculum:** Machine Learning 100\*, Data Structure and Algorithm Laboratory 99\*, Operating System 98\* (Course Project 95\*), Programming Practice 98\*, Data Structure and Algorithm 97\*, Programming Laboratory I 95\*, Computer Network (Course Project 95\*), Principles of Computer Composition, Higher Mathematics, Discrete Mathematics, Linear Algebra, Probability and Mathematical Statistics (\*: rank 1st in all students of the course).
+  B.Eng. in Computer Science (Information Security); .................................
 
-- **[The University of Hong Kong](https://www.hku.hk/)/[University of Macau](https://www.um.edu.mo/)** (Summer Camp)  
-  Nov. 2023  
-  **GPA: 97.50/100.00** (Interdisciplinary Programme)  
-  **Honor:** Commendation Letter for Outstanding Performance in the Winning Team
 
----
+
+
+  
 
 ## Publications
 
@@ -55,42 +52,13 @@ redirect_from:
 
 ---
 
+
+
 ## Research Experience
-
-**Computational Autonomous Learning Systems Lab**&emsp;&emsp;Advisor: [Prof. Pengcheng Liu](https://scholar.google.com/citations?user=VxmFgc0AAAAJ&hl=zh-CN)  
-[Department of Computer Science, University of York](https://www.york.ac.uk/computer-science/research/), York, UK **(On-Site)**  
-
-- **Bio-inspired models and biologically-plausible mechanisms for life-long learning machine intelligence, robotics and autonomous systems**  
-  Jun. 2025 -- Present
-  - Working with the [**Franka Emika Panda**](https://franka.de/) and [*TurtleBot* 3](https://www.turtlebot.com/turtlebot3/), I study biologically inspired mechanisms to enable life-long learning in robotics, focusing on perception, motion, and adaptability.  
-
-&nbsp;
 
 **Machine Life and Intelligence Research Centre**&emsp;&emsp;Advisor: [Prof. Qinbing Fu](https://scholar.google.com/citations?user=YIte1M8AAAAJ&hl=zh-CN)  
 School of Mathematics and Information Science, Guangzhou University, Guangzhou, China  
 
-- **Real-time Visual Processing Systems Development of Micro-Mobile Robot**  
-  Mar. 2023- Present
-  - Reading and giving reports of research articles during research seminars on a weekly basis.
-  - Deployed visual neural network models inspired by insect neurons onto the [STM32-based micro-robot *Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), achieving real-time collision perception and avoidance. Optimized model memory usage to fit within the **62 KByte** SRAM capacity of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17); developed and refined algorithms to enable real-time execution under extreme computational constraints (processing time **< 33 ms** on the STM32F427 chip); performed debugging, tuning, and conducted both offline and online experiments.
-  - [**A poster** illustrating the fly-inspired closed-loop visual-perception and motion-control system](https://ryannnice.github.io/assets/TAROS_2025_Poster_100.pdf) for the micro robot [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) is accepted at *the 26th Towards Autonomous Robotic Systems (TAROS 2025)*.
-  - Selected code can be accessed below:  
-  [Fly Visuomotor-Inspired Attention-LPLC2 Model **(independently, 2k lines of code in C)**](https://github.com/Ryannnice/neuro-life-project);  
-  [Locust Vision-Inspired Optimized-LGMD Model **(independently, 1k lines of code in C)**](https://github.com/Ryannnice/Optimized-LGMD).
-		
-		
-		
-- **Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization**, paper accepted at *IJCNN 2025*, *first author*.  
-  Jul. 2024 - Nov. 2024  
-  - Conducted full-cycle research on modeling the lobula plate/lobula columnar type 2 (LPLC2) neural ensemble in the fruit fly *Drosophila*, known for its ultra-selectivity to looming stimuli.
-  - Developed the multi-attention LPLC2 (mLPLC2) neural network model inspired by the visual system of the fly by leveraging a bottom-up attention mechanism driven by motion-sensitive neural pathways
-([**independently, 3k lines of code in C/C++**](https://github.com/Ryannnice/Offline_Multi-Attention_LPLC2_Model)).
-
-- **A Computationally Efficient Neuronal Model for Collision Detection with Contrast Polarity-Specific Feed-Forward Inhibition**, article published at *Biomimetics*, *second author*.  
-  Mar. 2024 - Jul. 2024  
-  - Participated in the entire research on modeling the optimized locust lobula giant movement detector neuron with detailed feed-forward inhibition (oLGMD) to enhance processing speed and the robustness towards translating movement.
-  - Implemented oLGMD model into the embedded system of [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17), and conducted closed-loop arena comparative experiments to evaluate performance of oLGMD, achieving the highest success ratio of collision avoidance at 97.51% while nearly halving the processing time compared with previous LGMD models; conducted all online experiments of this paper, analyzing the results using real-world data collected by the [*Colias*](https://link.springer.com/chapter/10.1007/978-3-319-96728-8_17) robot; designed criteria to assess time efficiency and collision selectivity.
-   - Led the initial writing of the introduction and experimentation sections; participated in revising the submitted paper.
 
 - **Bio-Inspired LGMD Collision Detection Model Leveraging Optical Flow and Learning-Based Optimization, *Provincial Key*** *College Students’ Innovative Entrepreneurial Training Plan Program*.  
   Mar. 2023 - Present  
