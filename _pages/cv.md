@@ -32,7 +32,7 @@ redirect_from:
 ---
 ## Manuscripts Under Review
 
-- **H. Zhou**, C. Fang, R. Liu, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
+- **H. Zhou**, C. Fang, R. Liu, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Revised manuscript submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
 
 
 ---
