@@ -15,6 +15,7 @@ I am closely collaborating with researchers at Machine Life and Intelligence Res
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***.  
 
+<!--You can find my CV [**HERE**](../assets/CV_HaotingZhou.pdf).-->
 You can find my CV <a href="../assets/CV_HaotingZhou.pdf" style="color: #7ECAAE; text-decoration-color: #7ECAAE;"><strong>HERE</strong></a>.
 
 
