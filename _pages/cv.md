@@ -24,13 +24,9 @@ redirect_from:
 
   
 
-## Publications
+## Publications & Manuscripts
 
 - C. Fang<sup>\*</sup>, **H. Zhou**, R. Liu, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *<font color = '#CC0000'>Accepted at Neurocomputing (JCR Q1, IF = 6.5).</font>*
-
-
----
-## Manuscripts Under Review
 
 - **H. Zhou**, C. Fang, R. Liu, and Q. Fu, [A bio-plausible neural network integrating motion and disparity pathways for looming perception](https://ryannnice.github.io/assets/A Bio-plausible Neural Network Integrating Motion and Disparity.pdf). *Revised manuscript submitted to Acta Electronica Sinica (CCF-A, in Chinese).*
 
