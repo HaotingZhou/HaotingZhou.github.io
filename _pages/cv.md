@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [**<font color = '#7ECAAE'>Haoting Zhou</font>**](https://github.com/HaotingZhou)
+# [**<font color = '#7ECAAE'>Haoting Zhou</font color = '#7ECAAE'>**](https://github.com/HaotingZhou)
 +86 13602676186  |  htizhou@gmail.com
 
 ---
@@ -17,7 +17,7 @@ redirect_from:
 
 - **[Guangzhou University](https://english.gzhu.edu.cn/)**  
   Sept. 2022 - Jun. 2026 (Expected)  
-  B.Sc. in 信息与计算科学; .................................
+  B.Sc. in Information and Computing Science; .................................
 
 
 
