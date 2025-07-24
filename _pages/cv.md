@@ -24,7 +24,7 @@ redirect_from:
 
   
 
-## Publications & Manuscripts
+## Publications and Manuscripts
 
 - C. Fang<sup>\*</sup>, **H. Zhou**, R. Liu, and Q. Fu<sup>\*</sup>, [A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5245992). *<font color = '#CC0000'>Accepted at Neurocomputing (JCR Q1, IF = 6.5).</font>*
 
