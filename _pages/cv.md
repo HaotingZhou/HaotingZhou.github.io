@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# [Chuankai Fang](https://totot123456.github.io/)
-+86 14784206312 | rliu@e.gzhu.edu.cn  
+# [**<font color = '#7ECAAE'>Haoting Zhou</font>**](https://totot123456.github.io/)
++86 13602676186  |  htizhou@gmail.com
 
 ---
 ## Education
