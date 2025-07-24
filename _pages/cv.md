@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [**<font color = '#7ECAAE'>Haoting Zhou</font color = '#7ECAAE'>**](https://github.com/HaotingZhou)
+# [**<font color = '#7ECAAE'>Haoting Zhou</font>**](https://github.com/HaotingZhou)
 +86 13602676186  |  htizhou@gmail.com
 
 ---
