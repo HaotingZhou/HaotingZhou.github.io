@@ -15,7 +15,7 @@ I am closely collaborating with researchers at Machine Life and Intelligence Res
 
 I am actively looking for research or graduate positions for ***<font color = '#CC0000'>Fall 2026</font>***.  
 
-You can find my CV [**<font color = '#7ECAAE'><u color = '#7ECAAE'>HERE</u></font>**.](../assets/CV_HaotingZhou.pdf).
+You can find my CV [**<font color = '#7ECAAE'>HERE</font>**.](../assets/CV_HaotingZhou.pdf).
 
 
 ## News
@@ -26,7 +26,7 @@ You can find my CV [**<font color = '#7ECAAE'><u color = '#7ECAAE'>HERE</u></fon
 
 ## Research Interests
 
-My current research seopemainly covers <font color = '#7ECAAE'><u color = '#7ECAAE'>bio-inspired visual recognition</u></font>, <font color = '#7ECAAE'></u>artifcial neural networks</font>, <font color = '#7ECAAE'><u color = '#7ECAAE'>robot collision detection</u></font>, and <font color = '#7ECAAE'><u color = '#7ECAAE'>multimodal learning for embedded systems</u></font>.
+My current research seopemainly covers <font color = '#7ECAAE'>bio-inspired visual recognition</font>, <font color = '#7ECAAE'>artifcial neural networks</font>, <font color = '#7ECAAE'>robot collision detection</font>, and <font color = '#7ECAAE'>multimodal learning for embedded systems</font>.
 
 
 
