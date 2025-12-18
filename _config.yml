@@ -25,7 +25,7 @@ author:
   avatar           : "haoting_photo.png" # "ckf_photo_oval.png" # "ckf_photo_oval.png" # "ckf_photo.png"
   name             : "Haoting Zhou" 
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student @ Guangzhou University majoring in Information and Comouting Science" #"My current research seopemainly covers bio-inspired visual recognition, artifcial neural networks, robot collision detection and multimodal learning for embedded systems."
+  bio              : "Undergraduate student at Guangzhou University, majoring in Information and Comouting Science" #"My current research seopemainly covers bio-inspired visual recognition, artifcial neural networks, robot collision detection and multimodal learning for embedded systems."
   location         : "Shenzhen/Guangzhou, China"
   employer         : #: #"Guangzhou Universi
   uri              : # URL
