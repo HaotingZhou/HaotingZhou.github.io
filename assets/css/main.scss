@@ -81,10 +81,14 @@ body {
 /* 左侧作者简介（sidebar） */
 .sidebar,
 .author__bio {
-  font-size: 1.35rem;
+  font-size: 1.05rem;
   line-height: 1.6;
 }
 
+.author__name {
+  font-size: 1.35rem;
+  font-weight: 600;
+}
 
 /* 导航栏字体略小，更学术 */
 .greedy-nav a {
